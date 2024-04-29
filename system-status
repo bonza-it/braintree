@@ -1,0 +1,465 @@
+`
+### WordPress Environment ###
+
+WordPress address (URL): https://www.outbacktracks-au.com
+Site address (URL): https://www.outbacktracks-au.com
+WC Version: 8.8.2
+REST API Version: ✔ 8.8.2
+Action Scheduler Version: ✔ 3.7.4
+Log Directory Writable: ✔
+WP Version: 6.5.2
+WP Multisite: –
+WP Memory Limit: 512 MB
+WP Debug Mode: –
+WP Cron: ✔
+Language: en_AU
+External object cache: –
+
+### Server Environment ###
+
+Server Info: Apache
+PHP Version: 7.4.33
+PHP Post Max Size: 64 MB
+PHP Time Limit: 30
+PHP Max Input Vars: 1000
+cURL Version: 7.87.0
+OpenSSL/1.1.1w
+
+SUHOSIN Installed: –
+MySQL Version: 10.6.17-MariaDB
+Max Upload Size: 30 MB
+Default Timezone is UTC: ✔
+fsockopen/cURL: ✔
+SoapClient: ✔
+DOMDocument: ✔
+GZip: ✔
+Multibyte String: ✔
+Remote Post: ✔
+Remote Get: ✔
+
+### Database ###
+
+WC Database Version: 8.8.2
+WC Database Prefix: divi_
+Total Database Size: 168.38MB
+Database Data Size: 119.38MB
+Database Index Size: 49.00MB
+divi_woocommerce_sessions: Data: 13.02MB + Index: 1.02MB + Engine InnoDB
+divi_woocommerce_api_keys: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+divi_woocommerce_attribute_taxonomies: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+divi_woocommerce_downloadable_product_permissions: Data: 0.02MB + Index: 0.06MB + Engine InnoDB
+divi_woocommerce_order_items: Data: 1.47MB + Index: 0.22MB + Engine InnoDB
+divi_woocommerce_order_itemmeta: Data: 6.52MB + Index: 3.98MB + Engine InnoDB
+divi_woocommerce_tax_rates: Data: 0.02MB + Index: 0.06MB + Engine InnoDB
+divi_woocommerce_tax_rate_locations: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+divi_woocommerce_shipping_zones: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+divi_woocommerce_shipping_zone_locations: Data: 0.02MB + Index: 0.05MB + Engine InnoDB
+divi_woocommerce_shipping_zone_methods: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+divi_woocommerce_payment_tokens: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+divi_woocommerce_payment_tokenmeta: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+divi_woocommerce_log: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+divi_actionscheduler_actions: Data: 0.27MB + Index: 0.30MB + Engine InnoDB
+divi_actionscheduler_claims: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+divi_actionscheduler_groups: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+divi_actionscheduler_logs: Data: 0.20MB + Index: 0.19MB + Engine InnoDB
+divi_aioseo_cache: Data: 0.03MB + Index: 0.03MB + Engine InnoDB
+divi_aioseo_notifications: Data: 0.03MB + Index: 0.06MB + Engine InnoDB
+divi_aioseo_posts: Data: 0.13MB + Index: 0.02MB + Engine InnoDB
+divi_commentmeta: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+divi_comments: Data: 2.52MB + Index: 1.27MB + Engine InnoDB
+divi_gf_draft_submissions: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+divi_gf_entry: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+divi_gf_entry_meta: Data: 0.02MB + Index: 0.05MB + Engine InnoDB
+divi_gf_entry_notes: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+divi_gf_form: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+divi_gf_form_meta: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+divi_gf_form_revisions: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+divi_gf_form_view: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+divi_hfcm_scripts: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+divi_jetpack_sync_queue: Data: 0.02MB + Index: 0.06MB + Engine InnoDB
+divi_jetpack_waf_blocklog: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+divi_links: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+divi_options: Data: 22.06MB + Index: 8.06MB + Engine InnoDB
+divi_postmeta: Data: 29.55MB + Index: 17.55MB + Engine InnoDB
+divi_posts: Data: 29.33MB + Index: 0.98MB + Engine InnoDB
+divi_rank_math_internal_links: Data: 0.06MB + Index: 0.02MB + Engine InnoDB
+divi_rank_math_internal_meta: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+divi_rank_math_redirections: Data: 0.05MB + Index: 0.02MB + Engine InnoDB
+divi_rank_math_redirections_cache: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+divi_redirection_404: Data: 0.02MB + Index: 0.05MB + Engine InnoDB
+divi_redirection_groups: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+divi_redirection_items: Data: 0.02MB + Index: 0.09MB + Engine InnoDB
+divi_redirection_logs: Data: 0.02MB + Index: 0.05MB + Engine InnoDB
+divi_termmeta: Data: 0.06MB + Index: 0.06MB + Engine InnoDB
+divi_terms: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+divi_term_relationships: Data: 0.06MB + Index: 0.05MB + Engine InnoDB
+divi_term_taxonomy: Data: 0.08MB + Index: 0.03MB + Engine InnoDB
+divi_userfeedback_surveys: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+divi_userfeedback_survey_responses: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+divi_usermeta: Data: 4.52MB + Index: 4.92MB + Engine InnoDB
+divi_users: Data: 0.14MB + Index: 0.14MB + Engine InnoDB
+divi_users_test: Data: 0.08MB + Index: 0.06MB + Engine MyISAM
+divi_wcusage_activity: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+divi_wcusage_clicks: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+divi_wcusage_register: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+divi_wc_admin_notes: Data: 0.09MB + Index: 0.00MB + Engine InnoDB
+divi_wc_admin_note_actions: Data: 0.08MB + Index: 0.02MB + Engine InnoDB
+divi_wc_category_lookup: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+divi_wc_customer_lookup: Data: 0.25MB + Index: 0.20MB + Engine InnoDB
+divi_wc_download_log: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+divi_wc_orders: Data: 0.02MB + Index: 0.11MB + Engine InnoDB
+divi_wc_orders_meta: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+divi_wc_order_addresses: Data: 0.02MB + Index: 0.06MB + Engine InnoDB
+divi_wc_order_coupon_lookup: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+divi_wc_order_operational_data: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+divi_wc_order_product_lookup: Data: 0.42MB + Index: 0.41MB + Engine InnoDB
+divi_wc_order_stats: Data: 0.30MB + Index: 0.27MB + Engine InnoDB
+divi_wc_order_tax_lookup: Data: 0.14MB + Index: 0.17MB + Engine InnoDB
+divi_wc_product_attributes_lookup: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+divi_wc_product_download_directories: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+divi_wc_product_meta_lookup: Data: 0.05MB + Index: 0.09MB + Engine InnoDB
+divi_wc_rate_limits: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+divi_wc_reserved_stock: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+divi_wc_tax_rate_classes: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+divi_wc_webhooks: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+divi_wdr_order_discounts: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+divi_wdr_order_item_discounts: Data: 0.02MB + Index: 0.05MB + Engine InnoDB
+divi_wdr_rules: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+divi_wfblockediplog: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+divi_wfblocks7: Data: 0.02MB + Index: 0.05MB + Engine InnoDB
+divi_wfconfig: Data: 0.09MB + Index: 0.00MB + Engine InnoDB
+divi_wfcrawlers: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+divi_wffilechanges: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+divi_wffilemods: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+divi_wfhits: Data: 0.02MB + Index: 0.05MB + Engine InnoDB
+divi_wfhoover: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+divi_wfissues: Data: 0.02MB + Index: 0.06MB + Engine InnoDB
+divi_wfknownfilelist: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+divi_wflivetraffichuman: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+divi_wflocs: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+divi_wflogins: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+divi_wfls_2fa_secrets: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+divi_wfls_role_counts: Data: 0.00MB + Index: 0.00MB + Engine MEMORY
+divi_wfls_settings: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+divi_wfnotifications: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+divi_wfpendingissues: Data: 0.02MB + Index: 0.06MB + Engine InnoDB
+divi_wfreversecache: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+divi_wfsnipcache: Data: 0.02MB + Index: 0.05MB + Engine InnoDB
+divi_wfstatus: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+divi_wftrafficrates: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+divi_woocommerce_gc_activity: Data: 0.02MB + Index: 0.06MB + Engine InnoDB
+divi_woocommerce_gc_cards: Data: 0.02MB + Index: 0.06MB + Engine InnoDB
+divi_woocommerce_gc_cardsmeta: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+divi_woocommerce_shipping_table_rates: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+divi_wpforms_logs: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+divi_wpforms_payments: Data: 0.02MB + Index: 0.14MB + Engine InnoDB
+divi_wpforms_payment_meta: Data: 0.02MB + Index: 0.05MB + Engine InnoDB
+divi_wpforms_tasks_meta: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+divi_wsal_metadata: Data: 3.52MB + Index: 6.03MB + Engine InnoDB
+divi_wsal_occurrences: Data: 2.52MB + Index: 0.66MB + Engine InnoDB
+divi_wt_iew_action_history: Data: 0.06MB + Index: 0.00MB + Engine InnoDB
+divi_wt_iew_mapping_template: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+divi_wt_sc_coupon_lookup: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+
+### Post Type Counts ###
+
+acf-field: 2
+acf-field-group: 1
+attachment: 1322
+b2bking_custom_field: 12
+b2bking_custom_role: 2
+b2bking_group: 2
+b2bking_rule: 2
+custom_css: 2
+et_body_layout: 7
+et_footer_layout: 9
+et_header_layout: 1
+et_pb_layout: 62
+et_template: 28
+et_theme_builder: 1
+is_search_form: 2
+nav_menu_item: 144
+oembed_cache: 3
+page: 20
+post: 23
+product: 99
+product_variation: 20
+pwh_dcfh: 71
+pwh_dcfh_log: 4
+revision: 994
+shop_coupon: 102
+shop_order: 2338
+shop_order_refund: 15
+wp_global_styles: 1
+wp_navigation: 1
+wpsl_stores: 51
+
+### Security ###
+
+Secure connection (HTTPS): ✔
+Hide errors from visitors: ✔
+
+### Active Plugins (39) ###
+
+Divi Torque Lite: by Divi Torque – 3.6.6
+Advanced Custom Fields: by WP Engine – 6.2.9
+Afterpay Gateway for WooCommerce: by Afterpay – 3.8.5
+B2BKing: by WebWizards – 3.0.0
+Better Search Replace: by WP Engine – 1.4.6
+WooCommerce Continue Shopping: by HappyKite – 1.6
+Customize My Account for WooCommerce: by SysBasics – 2.2.17
+Divi 100 Hamburger Menu: by Elegant Themes – 0.0.1
+Divi Contact Form Helper: by <a href="https://pakwebhouse.com/">Pak Web House</a> & <a href="https://www.peeayecreative.com/">Pee-Aye Creative</a> – 1.6
+Export All URLs: by Atlas Gondal – 4.7
+Site Kit by Google: by Google – 1.125.0
+Header Footer Code Manager: by 99robots – 1.1.37
+Health Check & Troubleshooting: by The WordPress.org community – 1.7.0
+Import and export users and customers: by codection – 1.26.6.1
+Jetpack: by Automattic – 13.3.1
+Nav Menu Roles: by Kathy Darling – 2.1.2
+LocaliQ - Tracking Code: by LocaliQ – 1.9
+WooCommerce Shipment Tracking API Extension for ReadyToShip: by ReadyToShip – 0.6
+reCAPTCHA for WooCommerce: by Elliot Sowersby
+RelyWP – 1.3.3
+
+Redirection: by John Godley – 5.4.2
+UserFeedback Lite: by UserFeedback Team – 1.0.15
+Checkout Field Editor for WooCommerce: by ThemeHigh – 2.0.1
+Preview E-mails for WooCommerce: by Digamber Pradhan – 2.2.5
+WooCommerce.com Update Manager: by Automattic – 1.0.2
+Woo Conditional Shipping and Payments: by Woo – 1.15.8
+Braintree for WooCommerce Payment Gateway: by WooCommerce – 3.1.5
+Woo Gift Cards: by Woo – 1.16.13
+Google Analytics for WooCommerce: by WooCommerce – 2.0.6
+WooCommerce Legacy REST API: by WooCommerce – 1.0.1
+WP Menu Cart: by WP Overnight – 2.14.3
+WooCommerce Price Based on Country: by Oscar Gare – 3.4.4
+WooCommerce Shipment Tracking: by WooCommerce – 2.4.7
+WooCommerce Australia Post Shipping: by WooCommerce – 2.5.8
+WooCommerce Smart Coupons: by StoreApps – 8.15.0 (update to version 8.22.0 is available)
+WooCommerce Table Rate Shipping: by WooCommerce – 3.1.9
+WooCommerce: by Automattic – 8.8.2
+WP Activity Log: by Melapress – 4.6.4
+WP Store Locator: by Tijmen Smit – 2.2.241
+WPForms Lite: by WPForms – 1.8.8.3
+
+### Inactive Plugins (4) ###
+
+Discount Rules Core: by Flycart – 2.6.3
+Facebook for WooCommerce: by Facebook – 3.1.15
+Rank Math SEO with AI Best SEO Tools: by Rank Math – 1.0.217
+WP Activity Log for WooCommerce: by WP White Security – 1.5.2
+
+### Must Use Plugins (1) ###
+
+Health Check Troubleshooting Mode: by  – 1.9.1
+
+### Settings ###
+
+API Enabled: ✔
+Force SSL: –
+Currency: AUD ($)
+Currency Position: left
+Thousand Separator: ,
+Decimal Separator: .
+Number of Decimals: 2
+Taxonomies: Product Types: external (external)
+grouped (grouped)
+simple (simple)
+variable (variable)
+
+Taxonomies: Product Visibility: exclude-from-catalog (exclude-from-catalog)
+exclude-from-search (exclude-from-search)
+featured (featured)
+outofstock (outofstock)
+rated-1 (rated-1)
+rated-2 (rated-2)
+rated-3 (rated-3)
+rated-4 (rated-4)
+rated-5 (rated-5)
+
+Connected to WooCommerce.com: ✔
+Enforce Approved Product Download Directories: –
+HPOS feature screen enabled: –
+HPOS feature enabled: –
+Order datastore: WC_Order_Data_Store_CPT
+HPOS data sync enabled: –
+
+### Logging ###
+
+Enabled: ✔
+Handler: Automattic\WooCommerce\Internal\Admin\Logging\LogHandlerFileV2
+Retention period: 30 days
+Level threshold: –
+Log directory size: 7 MB
+
+### WC Pages ###
+
+Shop base: #10 - /shop/
+Cart: ❌ Page does not contain the [woocommerce_cart] shortcode or the woocommerce/cart block.
+Checkout: ❌ Page does not contain the [woocommerce_checkout] shortcode or the woocommerce/checkout block.
+My account: #48 - /my-account/
+Terms and conditions: #248855 - /terms-conditions-2/
+
+### Theme ###
+
+Name: Divi Child
+Version: 1.0.0
+Author URL: 
+Child Theme: ✔
+Parent Theme Name: Divi
+Parent Theme Version: 4.25.0
+Parent Theme Author URL: http://www.elegantthemes.com
+WooCommerce Support: ✔
+
+### Templates ###
+
+Overrides: Divi_Child/woocommerce/emails/admin-new-order.php
+
+### Geolocation debug info ###
+
+Default customer location: geolocation
+MaxMind GeoIP database: ❌ The MaxMind GeoIP Database does not exist - Geolocation will not function.
+MaxMind GeoIP license: ❌ Geolocation has not been configured. You must enter a valid license key on the MaxMind integration settings page.
+MM_COUNTRY_CODE: ❌
+GEOIP_COUNTRY_CODE: ❌
+HTTP_CF_IPCOUNTRY: ❌
+HTTP_X_COUNTRY_CODE: ❌
+HTTP_X_REAL_IP: ❌
+HTTP_X_FORWARDED_FOR: ❌
+REMOTE_ADDR: 176.24.243.244
+Real external IP: 176.24.243.244
+WCPBC_USE_REMOTE_ADDR: –
+Geolocation Test: ❌The MaxMind GeoIP database is required.
+
+### PBC Settings ###
+
+Version: 3.4.4
+Base location: AU:QLD
+Base currency: AUD
+Price Based On: billing
+Shipping: –
+Test mode: –
+Test country: –
+Load products price in background: –
+Prices entered with tax: ✔
+Calculate tax based on: shipping
+Display prices in the shop: incl
+
+### Gift Cards ###
+
+Database Version: 1.16.13
+Loopback Test: ✔
+Task Queueing Test: ✔
+
+### Admin ###
+
+Enabled Features: activity-panels
+analytics
+product-block-editor
+coupons
+core-profiler
+customize-store
+customer-effort-score-tracks
+import-products-task
+experimental-fashion-sample-products
+shipping-smart-defaults
+shipping-setting-tour
+homescreen
+marketing
+mobile-app-banner
+navigation
+onboarding
+onboarding-tasks
+product-variation-management
+product-virtual-downloadable
+product-external-affiliate
+product-grouped
+product-linked
+product-pre-publish-modal
+remote-inbox-notifications
+remote-free-extensions
+payment-gateway-suggestions
+shipping-label-banner
+subscriptions
+store-alerts
+transient-notices
+woo-mobile-welcome
+wc-pay-promotion
+wc-pay-welcome-page
+
+Disabled Features: minified-js
+new-product-management-experience
+product-custom-fields
+settings
+async-product-editor-category-field
+launch-your-store
+
+Daily Cron: ✔ Next scheduled: 2024-04-30 06:40:06 +10:00
+Options: ✔
+Notes: 152
+Onboarding: completed
+
+### Braintree (Credit Card) ###
+
+Environment: Production
+Tokenization Enabled: ✔
+Debug Mode: Off
+
+### Braintree (PayPal) ###
+
+Environment: Production
+Tokenization Enabled: –
+Debug Mode: Off
+
+### Action Scheduler ###
+
+Complete: 720
+Oldest: 2024-03-29 18:54:18 +0000
+Newest: 2024-04-29 13:37:13 +0000
+
+Failed: 61
+Oldest: 2022-11-08 08:19:12 +0000
+Newest: 2024-03-06 22:48:39 +0000
+
+Pending: 6
+Oldest: 2024-04-29 14:58:57 +0000
+Newest: 2024-05-05 14:06:26 +0000
+
+
+### Smart Coupons related settings ###
+
+Number of coupons to show: 5
+Number of characters in auto-generated coupon code: 
+Valid order status for auto-generating coupon: processing
+completed
+
+Include tax in the amount of the generated gift card: no
+Deduct credit/gift before doing tax calculations: no
+Gift Card discount is inclusive of tax: no
+Automatic deletion: no
+Coupon emails: yes
+Printing coupons: yes
+Sell gift cards at less price?: no
+Use gift card applied in first subscription order for subsequent renewals until credit reaches zero: yes
+Renewal orders should not generate coupons even when they include a product that issues coupons: no
+Allow sending of coupons to others: yes
+Allow schedule sending of coupons?: no
+Combine emails: no
+Auto generated coupon email: yes
+Combined auto generated coupons email: no
+Acknowledgement email: yes
+Enable taxes: yes
+Prices entered with tax: yes
+Rounding: no
+Display prices in the shop: incl
+Display prices during cart and checkout: incl
+Display tax totals: itemized
+Enable the use of coupon codes: yes
+Calculate coupon discounts sequentially: no
+Account endpoints > Coupons: wc-smart-coupons
+
+### Status report information ###
+
+Generated at: 2024-04-30 00:55:00 +10:00
+`
